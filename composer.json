@@ -1,0 +1,15 @@
+{
+    "name": "redcode/entity-audit",
+    "description": "Entity Audit classes",
+    "keywords": ["entity", "symfony", "audit", "doctrine"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andrew Reddikh",
+            "email": "mazahaco@gmail.com"
+    	}
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
