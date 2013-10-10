@@ -1,5 +1,5 @@
 {
-    "name": "redcode/entity-audit",
+    "name": "redcode/entity-logger",
     "description": "Entity Audit classes",
     "keywords": ["entity", "symfony", "audit", "doctrine"],
     "license": "MIT",
